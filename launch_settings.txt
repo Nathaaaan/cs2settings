@@ -1,0 +1,1 @@
+-h 960 -w 1280 -novid -no-browser -nojoy -freq 144 +exec autoexec -noforcemaccel -noforcemspd -console -novid +fps_max 0
